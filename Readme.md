@@ -2,7 +2,7 @@
 
 * Студент: [Эля Омелянчук](https://up.htmlacademy.ru/htmlcss/39/user/2409327).
 * Наставник: [Олег Зайцев](https://htmlacademy.ru/profile/ozi).
-
+* Сайт [Мой проект Седона](https://elyaom.github.io/2409327-sedona-39/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
